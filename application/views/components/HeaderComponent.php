@@ -126,7 +126,7 @@ data-sidebar-position="fixed" data-header-position="fixed" data-boxed-layout="fu
                                 </div>
                             </li>
                             <li>
-                                <a class="nav-link pt-3 text-center text-dark" href="javascript:void(0);">
+                                <a class="nav-link pt-3 text-center text-dark" href="<?php base_url()?>NotificationController">
                                     <strong>Ir a la pantalla de notificaciones</strong>
                                     <i class="fa fa-angle-right"></i>
                                 </a>
