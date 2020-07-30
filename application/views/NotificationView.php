@@ -7,6 +7,6 @@
             <input type="submit" value="DAME CLIC"/>
         <form>
 
-        <?php echo $minombre ?>
+        <?php echo $name ?>
     </div>
 </div>
